@@ -58,6 +58,7 @@ public class Exercise8
 
 ## Output:
 
+![largest](https://user-images.githubusercontent.com/75234942/163844139-05f4d57f-9666-49f6-b8eb-7822585f22cc.png)
 
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
