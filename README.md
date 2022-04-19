@@ -22,6 +22,7 @@ Step6:
 stop
 
 ## Program:
+```c#
 using System;  
 public class Exercise8  
 {  
@@ -57,6 +58,7 @@ public class Exercise8
         Console.Write("The 3rd Number is the greatest among three \n\n");
 }
 }
+```
 ## Output:
 
 ![largest](https://user-images.githubusercontent.com/75234942/163844139-05f4d57f-9666-49f6-b8eb-7822585f22cc.png)
